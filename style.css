@@ -1,0 +1,22 @@
+.heading_div2
+{
+  box-shadow:5px 5px 5px orange;
+  font-size: 20px;
+}
+.btn-test1
+{
+  white-space: pre-line;
+  color: blue;
+  width: 100%;
+  background-color: skyblue;
+  text-align: center;
+}
+.footer {
+  position: fixed;
+  color: greenyellow;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  line-height: 3;
+  text-align: center;
+}
